@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-A tic tac toe game that I made at school in the course ICS4U1 with Java. It includes a winning and losing system.
+A java based tic-tac toe game made in ICS4U1 with a winning and losing system. 
